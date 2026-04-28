@@ -1,4 +1,3 @@
-10.5281/zenodo.19865965
 
 # Upadhya, Ratnayeke et al. 2026, Nature Communications
 Analysis and plotting code used for Upadhya, Ratnayeke et al. 2026, Nature Communications. Included are scripts for generating all figures in paper.  
