@@ -9,9 +9,8 @@ Tracking cells from time-lapse microscopy and quantification of fluorescent repo
 Quantitative image-based cytometry (QIBC) analysis of fixed-cell microscopy, with capabilities to handle multi-round imaging of the same sample.
 Retrospective Time-lapse Synchronized QIBC (RT-QIBC) analysis of fixed-cell microscopy, using prior information from live-cell tracking measurements of matched cells.
 
-Parts of the analysis pipeline are based on code from Ratnayeke et al. 2022, Molecular Cell
-Ratnayeke N, Baris Y, Chung M, Yeeles JTP, Meyer T. (2023). "CDT1 inhibits CMG helicase in early S phase to separate origin licensing from DNA synthesis." *Molecular Cell*, 83(1):26-42.
-https://doi.org/10.1016/j.molcel.2022.12.004
+Parts of the analysis pipeline are based on code from Ratnayeke et al. 2023, Molecular Cell
+Ratnayeke N, Baris Y, Chung M, Yeeles JTP, Meyer T. CDT1 inhibits CMG helicase in early S phase to separate origin licensing from DNA synthesis. Mol Cell. 2023 Jan 5;83(1):26-42.e13. doi: 10.1016/j.molcel.2022.12.004. PMID: 36608667; PMCID: PMC7614657.
 
 # Installation
 Add /image-analysis-Upadhya-Ratnayeke-2026/ and subdirectories to MATLAB path.
