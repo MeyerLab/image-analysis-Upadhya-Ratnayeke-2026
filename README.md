@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/1223940200.svg)](https://doi.org/10.5281/zenodo.19897986)
 # Upadhya, Ratnayeke et al. 2026
 Analysis and plotting code used for Upadhya, Ratnayeke et al. 2026. Included are scripts for generating all figures in the paper.  
 
