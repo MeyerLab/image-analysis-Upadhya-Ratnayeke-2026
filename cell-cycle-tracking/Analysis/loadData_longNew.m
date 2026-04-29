@@ -24,12 +24,12 @@ settings.conditions = {
         };
 
 %%% Paths %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-settings.dataDir = 'C:\Users\swu4001\Desktop\Data\A086\A086-live\Data';
+settings.dataDir = 'E:\A086\A086-live\Data';
 settings.liveLabel = 'traceData_';
 settings.liveNames = fullfile(settings.dataDir,'settings_live.mat');
 settings.IFNames = fullfile(settings.dataDir, 'settings_live_IF.mat');
 settings.saveName = 'A086_data_trace.mat';
-settings.saveDir = 'C:\Users\swu4001\Desktop\Data\A086\Analysis';
+settings.saveDir = 'E:\A086\Analysis';
 %%% Analysis Options %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 settings.daughterGate = 1;  %0:no gating 1:daughters 2:no daughters
 settings.type = 'cycling';   %'release', 'cycling' or 'hybrid
